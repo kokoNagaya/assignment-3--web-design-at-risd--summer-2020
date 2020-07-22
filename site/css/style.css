@@ -1,3 +1,9 @@
+}
+
+.item {
+  padding: 12px;
+}
+
 .item:nth-child(1) {
   border: #0000;
 }
