@@ -27,25 +27,6 @@ header.container {
   margin-bottom: 75px;
 }
 
-main.container {
-  margin: 30px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-h3 {
-  padding: 35px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  text-align: left;
-}
-
-main {
-  font-size: 80px;
-  font-family: 'futura', sans-serif;
-}
-
 header {
   background-color: #7B68EE;
   font-size: 170px;
