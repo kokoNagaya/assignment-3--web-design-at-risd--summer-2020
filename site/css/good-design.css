@@ -1,0 +1,46 @@
+html {
+  background-color: #DCDCDC;
+}
+
+main {
+  font-family: 'futura', sans-serif;
+}
+
+h3 {
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+  font-size: 80px;
+}
+
+h4 {
+  padding: 10px;
+  margin: 40px;
+  margin-bottom: -10px;
+  text-align: center;
+  font-size: 50px;
+}
+
+p {
+  font-size: 30px;
+  border: 50px;
+  margin: 20px;
+}
+
+img {
+  margin: 20px;
+}
+
+span {
+  font-size: 30px;
+  border: 50px;
+  padding: 40px;
+  margin: 50px;
+  background-color: #CD5C5C;
+}
+
+.aligned {
+  display: flex;
+  align-items: flex-start;
+}
