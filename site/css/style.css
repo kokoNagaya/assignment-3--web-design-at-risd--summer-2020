@@ -29,6 +29,11 @@ header.container {
 
 }
 
+h3 {
+  padding: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: left;
 }
 
 main {
