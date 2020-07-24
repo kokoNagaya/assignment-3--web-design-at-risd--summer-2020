@@ -27,6 +27,11 @@ header.container {
   margin-bottom: 75px;
 }
 
+main.container {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 h3 {
