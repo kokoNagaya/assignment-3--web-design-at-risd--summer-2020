@@ -36,4 +36,9 @@ main {
   font-family: 'futura', sans-serif;
 }
 
+header {
+  background-color: #7B68EE;
+  font-size: 170px;
+  text-align: center;
+  font-family: 'futura', sans-serif;
 }
