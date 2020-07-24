@@ -2,8 +2,11 @@ html {
   background-color: #DCDCDC;
 }
 
+header.container {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  color: white;
     /*
   flex-direction: column-reverse;
   flex-diirection: row;
