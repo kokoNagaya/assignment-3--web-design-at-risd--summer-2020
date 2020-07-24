@@ -1,3 +1,7 @@
+html {
+  background-color: #DCDCDC;
+}
+
   display: flex;
   flex-direction: column;
     /*
