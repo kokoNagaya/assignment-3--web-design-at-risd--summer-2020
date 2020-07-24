@@ -22,6 +22,9 @@ header.container {
 }
 
 .item {
+  padding: 60px;
+  margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 }
