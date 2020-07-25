@@ -46,10 +46,4 @@ a {
 
 }
 
-header {
-  background: rgb(131,58,180);
-  background: radial-gradient(circle, rgba(131,58,180,1) 28%, rgba(123,104,238,1) 100%);
-  font-size: 170px;
-  text-align: center;
-  font-family: 'futura', sans-serif;
 }
