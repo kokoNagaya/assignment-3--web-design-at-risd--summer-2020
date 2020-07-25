@@ -63,9 +63,6 @@ p {
   text-align: right;
 }
 
-.aligned {
-  display: flex;
-  align-items: flex-start;
 .clear {
   clear: both;
 }
