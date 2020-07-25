@@ -6,8 +6,6 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-top: 130px;
-  padding-bottom: 130px;
   color: white;
     /*
   flex-direction: column-reverse;
