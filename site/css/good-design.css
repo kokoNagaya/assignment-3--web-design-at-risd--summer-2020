@@ -48,6 +48,11 @@ h2 {
   margin: 50px;
 }
 
+.aligned {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ed748c;
+  padding: 40px;
 }
 
 .left {
