@@ -65,6 +65,10 @@ span {
   padding: 40px;
   margin: 50px;
   background-color: #CD5C5C;
+.right {
+  float: right;
+  width: 60%;
+  text-align: right;
 }
 
 .aligned {
