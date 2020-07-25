@@ -45,4 +45,6 @@ a {
   text-decoration:none;
 }
 
+a:hover {
+  color: #ed748c;
 }
