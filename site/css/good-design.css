@@ -74,4 +74,6 @@ span {
 .aligned {
   display: flex;
   align-items: flex-start;
+.clear {
+  clear: both;
 }
