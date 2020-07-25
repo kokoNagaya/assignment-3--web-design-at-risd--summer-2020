@@ -53,6 +53,10 @@ p {
 
 img {
   margin: 20px;
+.left {
+  float: left;
+  width: 60%;
+  text-align: left;
 }
 
 span {
