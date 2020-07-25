@@ -31,11 +31,15 @@ main {
   margin: auto;
 }
 
-h3 {
+.fas {
+  color: #d7c671;
+  font-size: 50px;
+  margin: 50px 10px 50px 0px;
+}
+h2 {
   padding: 10px;
   margin-top: 50px;
-  margin-bottom: 50px;
-  text-align: left;
+  margin-bottom: 20px;
   font-size: 80px;
 }
 
