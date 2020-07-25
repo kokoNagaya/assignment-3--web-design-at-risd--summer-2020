@@ -27,6 +27,8 @@ h1 {
 
 main {
   font-family: 'futura', sans-serif;
+  width: 95%;
+  margin: auto;
 }
 
 h3 {
